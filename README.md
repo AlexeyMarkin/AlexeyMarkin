@@ -1,6 +1,13 @@
 [![AlexeyMarkin's GitHub Banner](/assets/beyonder-main.gif)](https://digitalexpansion.pro)
 
 
+
+https://github.com/AlexeyMarkin/AlexeyMarkin/blob/main/assets/compressed-final-result.gif
+
+<p align = "center">
+<img src="https://github.com/AlexeyMarkin/AlexeyMarkin/blob/main/assets/compressed-final-result.gif"
+</p>
+
 <!-- - 👋 Hi, I’m @AlexeyMarkin -->
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ... -->
