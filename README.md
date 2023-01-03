@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/AlexeyMarkin/AlexeyMarkin/blob/main/assets/compressed-final-result.gif" width:587px; height:714px/>
+<img src="https://github.com/AlexeyMarkin/AlexeyMarkin/blob/main/assets/compressed-final-result.gif" width:587; height:714/>
 </p>
 
 <!-- - 👋 Hi, I’m @AlexeyMarkin -->
